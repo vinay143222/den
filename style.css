@@ -1,0 +1,165 @@
+    body {
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+        font-family: 'Times New Roman', Times, serif;
+        scroll-behavior: smooth;
+    }
+    
+    html {
+        scroll-behavior: smooth;
+    }
+    
+    .navbar {
+        box-shadow: 2px 2px 2px 4px;
+        box-shadow: white;
+        border-radius: 10px;
+    }
+    
+    .navbar-nav a {
+        color: white;
+    }
+    
+    .navbar-brand {
+        color: white;
+        margin-left: 20px;
+    }
+    
+    .image_1 {
+        width: 75%;
+        margin: 40px 40px 40px 40px;
+        height: 78%;
+        border-radius: 30px;
+        border: 3px solid white;
+    }
+    
+    .para_1 {
+        color: white;
+        margin-top: 80px;
+        text-align: center;
+    }
+    
+    .download-button {
+        margin: 5% 3% 0% 1%;
+    }
+    /*  transform: translate(100px, 10px);*/
+    
+    .btn-dark:hover {
+        /* transform: rotate(20deg);*/
+        /* transform: rotate(-20deg);*/
+        /*transition: cubic-bezier(0.39, 0.575, 0.565, 1);*/
+        /*transform: scale(2, 3);*/
+        /*transform: scaleZ(2);*/
+        /*transform: skew(20deg);*/
+        /*transform: skew(30deg);*/
+        /*transform: scale(1, 2);*/
+        transform: rotate(20deg);
+    }
+    
+    .title {
+        background-color: #1b1717;
+        background-color: linear-gradient(bottom, white, red);
+        background-color: radial-gradient(top, red, red);
+    }
+    
+    .container-fluid {
+        padding: 3% 15%;
+        /*top top to bottom and left ot right*/
+    }
+    
+    .king {
+        background-color: #1b1717;
+        padding: 30px;
+        margin: 0;
+    }
+    
+    .img-thumbnail {
+        margin-top: 20px;
+        /*    transform: rotate(20deg);
+        transform: scale(1.5);*/
+    }
+    
+    .heading_1 {
+        color: white;
+        font-size: 25px;
+        padding: 20px;
+        text-align: center;
+        margin: 20px;
+        line-height: 1.5;
+        letter-spacing: 6px;
+    }
+    
+    .nav-item {
+        text-align: center;
+        padding: 10px;
+    }
+    
+    .image_carousel {
+        width: 50%;
+        height: 30%;
+    }
+    
+    #carousel_1 {
+        padding: 30px;
+        text-align: center;
+        background-color: #1b1717;
+    }
+    
+    .carousel-indicators {
+        color: white;
+        border-style: none;
+    }
+    
+    .carousel-indicators li {
+        background-color: black;
+        border-radius: 50%;
+        height: 10px;
+        width: 15px;
+    }
+    
+    #joinden {
+        background-color: #1b1717;
+        padding: 30px;
+        text-align: center;
+    }
+    
+    .card-header {
+        background-color: black;
+        color: white;
+        font-size: 20px;
+    }
+    
+    .card {
+        width: 100%;
+    }
+    
+    #contact {
+        background-color: #1b1717;
+        padding: 30px;
+    }
+    
+    .form-control {
+        background-color: #1b1717;
+        color: white;
+    }
+    
+    .form-control button {
+        color: white;
+        margin-top: 20px;
+    }
+    
+    .sponser_1 {
+        width: 50%;
+        padding: 30px;
+    }
+    
+    .sponsers {
+        background-color: #1b1717;
+        padding: 30px;
+        text-align: center;
+    }
+    
+    .up_button {
+        color: white;
+        background-color: white;
+    }
